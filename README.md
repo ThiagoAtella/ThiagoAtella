@@ -37,9 +37,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoAtella&langs_count=5&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoAtella&langs_count=5&hide_values=true&theme=radical)
 
 ---
 
